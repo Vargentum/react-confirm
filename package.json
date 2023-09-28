@@ -1,5 +1,5 @@
 {
-  "name": "react-confirm",
+  "name": "@vargentum/react-confirm",
   "version": "0.1.19",
   "description": "Small library which makes your Dialog component callable",
   "main": "lib/index.js",
