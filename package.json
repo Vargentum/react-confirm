@@ -1,7 +1,7 @@
 {
-  "name": "@vargentum/react-confirm",
+  "name": "react-confirm-mountable-16",
   "version": "0.1.19",
-  "description": "Small library which makes your Dialog component callable",
+  "description": "An adaptation of react-confirm v0.3.0-7 for react 16.x",
   "main": "lib/index.js",
   "repository": {
     "type": "git",
